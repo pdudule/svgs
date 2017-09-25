@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   version="1.2"
+   id="SVGRoot"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="LastTweet_ILO_V2.svg"
+   viewBox="0 0 1920 1080">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.41053452"
+     inkscape:cx="1026.185"
+     inkscape:cy="496.85228"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     viewbox-width="1716.32"
+     scale-x="1" />
+  <defs
+     id="defs5688">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath847">
+      <path
+         id="path849"
+         style="opacity:1;fill:#333333;stroke:#333333;stroke-width:3.60373545;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M -94.500059,257.10118 A 129.9919,131.92247 0 0 1 -224.49196,389.02365 129.9919,131.92247 0 0 1 -354.48385,257.10118 129.9919,131.92247 0 0 1 -224.49196,125.17871 129.9919,131.92247 0 0 1 -94.500059,257.10118 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath855">
+      <ellipse
+         style="opacity:1;fill:#333333;stroke:#333333;stroke-width:3.56376171;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse857"
+         cx="-200"
+         cy="226.09111"
+         rx="133.07526"
+         ry="126.6467" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath839">
+      <ellipse
+         style="opacity:1;fill:#d38d5f;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse841"
+         cx="723.37891"
+         cy="-23.729448"
+         rx="114.37145"
+         ry="110.33455" />
+    </clipPath>
+    <clipPath
+       id="clipPath26"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         id="path28"
+         d="M -3.0518e-5,3.6621e-4 H 959.99997 V 540.00037 H -3.0518e-5 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath244"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         id="path246"
+         d="M 904.98,99 C 930.93,99 951.96,77.993 951.96,52.08 951.96,26.167 930.93,5.1602 904.98,5.1602 879.03,5.1602 858,26.167 858,52.08 858,77.993 879.03,99 904.98,99 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath839-0">
+      <ellipse
+         style="opacity:1;fill:#d38d5f;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse841-6"
+         cx="723.37891"
+         cy="-23.729448"
+         rx="114.37145"
+         ry="110.33455" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient861"
+       id="radialGradient865"
+       cx="57.913322"
+       cy="97.227188"
+       fx="57.913322"
+       fy="97.227188"
+       r="226.12891"
+       gradientTransform="matrix(0.39809846,0.00137577,-2.7720008e-4,0.05876462,349.25544,151.62183)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient861">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop857" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop859" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient861"
+       id="radialGradient3871"
+       cx="57.913322"
+       cy="97.227188"
+       fx="57.913322"
+       fy="97.227188"
+       r="226.12891"
+       gradientTransform="matrix(0.39809846,0.00137577,-2.7720008e-4,0.05876462,349.25544,151.62183)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient861"
+       id="radialGradient3879"
+       cx="57.913322"
+       cy="97.227188"
+       fx="57.913322"
+       fy="97.227188"
+       r="226.12891"
+       gradientTransform="matrix(0.39809846,0.00137577,-2.7720008e-4,0.05876462,349.25544,151.62183)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient861"
+       id="radialGradient3887"
+       cx="57.913322"
+       cy="97.227188"
+       fx="57.913322"
+       fy="97.227188"
+       r="226.12891"
+       gradientTransform="matrix(0.39809846,0.00137577,-2.7720008e-4,0.05876462,349.25544,151.62183)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata5691">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1"
+     transform="translate(-79.073196,-35.013302)">
+    <image
+       sodipodi:absref="D:\Users\u099241\Desktop\SHIFUMIX\L'Ile Eau\fondwidgetl'ileEau.jpg"
+       y="36.437939"
+       x="78.741425"
+       id="image3914"
+       xlink:href="https://raw.githubusercontent.com/alixcmfr/template-shifumix/master/fondwidgetl'ileEau.jpg"
+       preserveAspectRatio="none"
+       height="1082.5499"
+       width="1927.4199" />
+    <rect
+       style="opacity:1;fill:#f9f9f9;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="event.qrcode"
+       width="57.037418"
+       height="57.037418"
+       x="115.24519"
+       y="1015.7478"
+       inkscape:label="#rect840" />
+    <text
+       id="event.title"
+       y="162.31525"
+       x="859.10712"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.39928436px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#808080;stroke-width:1.11122859"
+       xml:space="preserve"
+       inkscape:label="#text844"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:59.39928436px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#808080;stroke-width:1.11122859"
+         y="162.31525"
+         x="859.10712"
+         id="tspan842"
+         sodipodi:role="line">titre de l'event</tspan></text>
+    <g
+       transform="matrix(3.0067127,0,0,3.0067127,94.4003,-4.910697)"
+       id="g1389">
+      <rect
+         transform="matrix(0.12645239,0,0,0.12645239,204.33043,124.33617)"
+         clip-path="url(#clipPath839-0)"
+         y="-140.35063"
+         x="599.0946"
+         height="234.33676"
+         width="245.37494"
+         id="tweet1.from.picture"
+         style="opacity:0.731;fill:#ffff00;stroke:none;stroke-width:4.78702641;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         charsperline="40"
+         transform="scale(0.9251666,1.0808864)"
+         inkscape:label="#text32"
+         id="tweet1.label"
+         y="151.58325"
+         x="345.27481"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient865);stroke-width:0.16737972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:url(#radialGradient865);stroke-width:0.16737972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="151.58325"
+           x="345.27481"
+           id="tspan30"
+           sodipodi:role="line">Text du tweet blablablabla aaaaaaaaaaaaaaaaaaaaaaaaaa</tspan><tspan
+           id="tspan34"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:url(#radialGradient865);stroke-width:0.16737972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="169.22214"
+           x="345.27481"
+           sodipodi:role="line">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</tspan><tspan
+           id="tspan845"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke:url(#radialGradient865);stroke-width:0.16737972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           y="186.86102"
+           x="345.27481"
+           sodipodi:role="line">fdsfdsfdsfdsfds k kljk fdjskl fdklsjklds</tspan></text>
+      <text
+         id="tweet1.from.firstname"
+         y="126.77595"
+         x="298.81876"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:14.78315258px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36958256"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:14.78315258px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.36958256"
+           y="126.77595"
+           x="298.81876"
+           id="tspan835"
+           sodipodi:role="line">Prénom</tspan></text>
+    </g>
+  </g>
+</svg>
